@@ -1,6 +1,6 @@
 # Python_Implementation_ML_templates
 
-This repository consists of templates to code different ML models using Python. A general template has been implemented which can be further extended to other datasets by making necessary changes. The datasets and codes implemented are from my self-learning MOOC course "Machine Learning A-Z™: Hands-On Python & R In Data Science" on Udemy by Kirill Eremenko and Hadelin de Ponteves.
+This repository consists of templates to code different ML models using Python. A general template has been implemented which can be further extended to other datasets by making necessary changes. Credits: "Machine Learning A-Z™: Hands-On Python & R In Data Science" on Udemy by Kirill Eremenko and Hadelin de Ponteves.
 
 Part 1 - Data Preprocessing
 
